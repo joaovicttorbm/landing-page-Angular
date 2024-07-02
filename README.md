@@ -10,19 +10,9 @@
 ![typescript][TYPESCRIPT__BADGE]
 ![javascript][JAVASCRIPT__BADGE]
 
-<p align="center">
- <a href="#about">About</a> • 
- <a href="#getting-started">Getting Started</a> • 
- <a href="#contributing">Contributing</a> • 
- <a href="#credits">Credits</a>
-</p>
-
-
 <h2 id="about">📌 About</h2>
 
-This repository contains a Landing Page built with Angular. This project was inspired by the **Landing Page w/ SSR** project by Fernanda Kipper. 
-
-[![project][PROJECT__BADGE]][PROJECT__URL]
+This repository contains a Landing Page built with Angular. This project was inspired by the **Landing Page w/ SSR** project by *Fernanda Kipper*. 
 
 <h2 id="getting-started">🚀 Getting Started</h2>
 
