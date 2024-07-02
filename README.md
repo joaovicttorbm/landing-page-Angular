@@ -17,9 +17,6 @@
  <a href="#credits">Credits</a>
 </p>
 
-<p align="center">
-    <img src="./.github/landing-page.png" alt="Page Layout" width="400px">
-</p>
 
 <h2 id="about">📌 About</h2>
 
